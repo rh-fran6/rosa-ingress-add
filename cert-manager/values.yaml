@@ -1,0 +1,2 @@
+version: stable-v1.13
+role_arn: arn:aws:iam::069165561352:role/dd-rosa-demo-certmgr-r53-role

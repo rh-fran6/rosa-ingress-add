@@ -87,4 +87,3 @@ Make sure to review and adjust the script variables as per your environment befo
 1. Please review and adjust the scripts as per your specific requirements before executing them in your environment.
 2. These scripts assume certain configurations and may need modifications based on your environment and policies.
 3. Always exercise caution when running scripts that interact with your production environment.
-# rosa-ingress-add
